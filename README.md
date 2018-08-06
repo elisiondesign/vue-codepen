@@ -1,6 +1,11 @@
 # Vue-Codepen
 This is a simple Vue component that enables to embed Codepen pens through the recommended HTML method.
 
+## Installation
+```
+npm install vue-codepen --save
+```
+
 ## Usage
 1. From the pen of your choice, copy the embed HTML code.
 2. Reshape the HTML code into an object - **key: property** (see example below).
